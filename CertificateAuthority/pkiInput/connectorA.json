@@ -1,5 +1,5 @@
 {
-  "CN": "Connector A",
+  "CN": "ConnectorA",
   "key": {
     "algo": "rsa",
     "size": 2048

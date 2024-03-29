@@ -4,8 +4,8 @@ services:
     image: nginx:1.25.3
     container_name: omejdn
     ports:
-      - 80:80
-      - 443:443      
+      - 800:80
+      - 4430:443      
     environment:
       - OMEJDN_DOMAIN=${OMEJDN_DOMAIN}
       - OMEJDN_PATH=${OMEJDN_PATH}
@@ -177,4 +177,6 @@ volumes:
 
 networks:
   local:
-    driver: bridge
+    # driver: bridge
+    external: true
+    name: dataspace
