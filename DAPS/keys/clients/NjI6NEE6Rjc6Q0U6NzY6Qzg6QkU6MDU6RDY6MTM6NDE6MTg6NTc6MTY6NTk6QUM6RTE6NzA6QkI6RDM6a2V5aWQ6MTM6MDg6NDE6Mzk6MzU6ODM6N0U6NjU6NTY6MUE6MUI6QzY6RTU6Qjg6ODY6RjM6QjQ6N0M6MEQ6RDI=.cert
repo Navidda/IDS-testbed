@@ -1,7 +1,3 @@
-Bag Attributes
-    localKeyID: 50 56 0B B0 C5 D3 11 ED 55 89 51 11 B6 0F CC 8B 9D A2 DA 98 
-subject=C = DE, L = Dortmund, O = IDSA, OU = IDS Reference Testbed, CN = ConnectorA
-issuer=C = DE, L = Dortmund, O = IDSA, OU = IDS Reference Testbed, CN = ReferenceTestbedSubCA
 -----BEGIN CERTIFICATE-----
 MIIDnzCCAyWgAwIBAgIUDHeGc8ilCBRIvI13GQZAK3KVv3kwCgYIKoZIzj0EAwMw
 bzELMAkGA1UEBhMCREUxETAPBgNVBAcTCERvcnRtdW5kMQ0wCwYDVQQKEwRJRFNB

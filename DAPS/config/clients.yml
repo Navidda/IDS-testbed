@@ -17,7 +17,7 @@
     value: https://w3id.org/idsa/contexts/context.jsonld
   - key: transportCertsSha256
     value: edd4bf74e9850f8a55b82f410db228e1a46d884ea533d721e18405e2769edcb9
-- client_id: 05:7E:2E:7C:71:33:28:0D:18:0E:BB:40:7D:A7:6C:1C:64:37:8A:62:keyid:C4:76:D0:AA:CD:93:79:35:0F:EB:A7:64:60:90:A4:6B:B4:38:4D:33
+- client_id: 62:4A:F7:CE:76:C8:BE:05:D6:13:41:18:57:16:59:AC:E1:70:BB:D3:keyid:13:08:41:39:35:83:7E:65:56:1A:1B:C6:E5:B8:86:F3:B4:7C:0D:D2
   client_name: connectorA
   grant_types: client_credentials
   token_endpoint_auth_method: private_key_jwt
@@ -34,8 +34,8 @@
   - key: "@context"
     value: https://w3id.org/idsa/contexts/context.jsonld
   - key: transportCertsSha256
-    value: 45599b692a3892cd6c492bc95fae95b194c496155ee9d237153e15cd43d19016
-- client_id: E7:23:AA:9F:21:18:6A:0F:CB:99:37:A3:5D:B8:DF:65:F0:5B:31:FE:keyid:C4:76:D0:AA:CD:93:79:35:0F:EB:A7:64:60:90:A4:6B:B4:38:4D:33
+    value: 6facc7fbc15ad4b89d465c676cbd274ad923520cc28964e54238b9f4ec5a2b23
+- client_id: F6:82:CB:05:CF:B6:55:BE:81:5C:20:C4:2E:35:3C:28:E9:08:A4:88:keyid:13:08:41:39:35:83:7E:65:56:1A:1B:C6:E5:B8:86:F3:B4:7C:0D:D2
   client_name: connectorB
   grant_types: client_credentials
   token_endpoint_auth_method: private_key_jwt
@@ -52,4 +52,4 @@
   - key: "@context"
     value: https://w3id.org/idsa/contexts/context.jsonld
   - key: transportCertsSha256
-    value: 31741d12bd09dff4d0beb31b6d42811788e4d8954910a985d70d3127630a188d
+    value: 7351921564c505c75012bacacf4d1f458f68ebd9a4646ed9c8b8621c73d56bfc
